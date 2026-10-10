@@ -1,6 +1,6 @@
-# Healthcare Identity & Access Analytics
+# Identity & Access Analytics
 
-A synthetic hospital environment in Snowflake used to find access control problems with SQL. The data covers employees, departments, applications, roles, and login activity. No real patient or employee data.
+A hospital environment in Snowflake used to find access control problems with SQL. The data covers employees, departments, applications, roles, and login activity. No real patient or employee data.
 
 ## What this will check for
 - Terminated employees who still have active accounts
